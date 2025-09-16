@@ -1,3 +1,8 @@
+[workspace]
+channels = ["https://prefix.dev/conda-forge"]
+platforms = ["linux-64"]
+preview = ["pixi-build"]
+
 [package]
 name = "igraph"
 version = "0.10.16"
