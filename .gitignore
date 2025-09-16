@@ -4,7 +4,6 @@
 .vscode/
 
 /tags
-/IGRAPH_VERSION
 /build
 /build-*
 /tools/**/*.pyc
