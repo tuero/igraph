@@ -8,5 +8,5 @@ name = "igraph"
 version = "0.10.16"
 
 [package.build.backend]
-name = "pixi-build-cmake"
+name = "pixi-build-rattler-build"
 version = "*"
